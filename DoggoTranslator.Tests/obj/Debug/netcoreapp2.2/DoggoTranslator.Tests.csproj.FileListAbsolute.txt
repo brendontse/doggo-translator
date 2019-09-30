@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/bin/Debug/netcoreapp2.2/DoggoTranslator.Tests.deps.json
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/bin/Debug/netcoreapp2.2/DoggoTranslator.Tests.runtimeconfig.json
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/bin/Debug/netcoreapp2.2/DoggoTranslator.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/bin/Debug/netcoreapp2.2/DoggoTranslator.Tests.dll
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/bin/Debug/netcoreapp2.2/DoggoTranslator.Tests.pdb
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/bin/Debug/netcoreapp2.2/DoggoTranslator.dll
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/bin/Debug/netcoreapp2.2/DoggoTranslator.pdb
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/obj/Debug/netcoreapp2.2/DoggoTranslator.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/obj/Debug/netcoreapp2.2/DoggoTranslator.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/obj/Debug/netcoreapp2.2/DoggoTranslator.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/obj/Debug/netcoreapp2.2/DoggoTranslator.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/obj/Debug/netcoreapp2.2/DoggoTranslator.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/obj/Debug/netcoreapp2.2/DoggoTranslator.Tests.dll
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator.Tests/obj/Debug/netcoreapp2.2/DoggoTranslator.Tests.pdb

@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator/bin/Debug/netcoreapp2.2/DoggoTranslator.deps.json
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator/bin/Debug/netcoreapp2.2/DoggoTranslator.dll
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator/bin/Debug/netcoreapp2.2/DoggoTranslator.pdb
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator/obj/Debug/netcoreapp2.2/DoggoTranslator.csprojAssemblyReference.cache
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator/obj/Debug/netcoreapp2.2/DoggoTranslator.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator/obj/Debug/netcoreapp2.2/DoggoTranslator.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator/obj/Debug/netcoreapp2.2/DoggoTranslator.AssemblyInfo.cs
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator/obj/Debug/netcoreapp2.2/DoggoTranslator.dll
+/Users/Guest/Desktop/DoggoTranslator/DoggoTranslator/obj/Debug/netcoreapp2.2/DoggoTranslator.pdb
